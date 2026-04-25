@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/*",
-      "redirect": "https://shriverlaw.com",
+      "redirect": "https://shriverlaw.com{path}",
       "statusCode": 301
     }
   ]
